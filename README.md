@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple Spring Boot Application to manage books and authors in a library.This project includes RESTful endpoints to add, retrieve, update and delete books and authors.
+A Spring Boot Application to manage books and authors in a library.This project includes RESTful endpoints to add, retrieve, update and delete books and authors.
 
 ## Requirements 
 
