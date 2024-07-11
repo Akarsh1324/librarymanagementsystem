@@ -6,13 +6,13 @@ A Spring Boot Application to manage books and authors in a library.This project 
 
 ## Requirements 
 
-• Java 17
+• Java
 • Maven
 
 ## Setup
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/library.git
+    git clone https://github.com/username/library.git
     cd library
     ```
 
@@ -36,8 +36,8 @@ A Spring Boot Application to manage books and authors in a library.This project 
     http://localhost:8080/h2-console
     ```
     Use the following credentials:
-    - **Username**: akarsh
-    - **Password**: akarsh123
+    - Username: akarsh
+    - Password: akarsh123
 
 ## Endpoints
 
@@ -51,7 +51,7 @@ A Spring Boot Application to manage books and authors in a library.This project 
 
 ## Testing
 
-Run unit and integration tests:
+Run both the unit and integration tests:
 
 ```sh
 mvn test
